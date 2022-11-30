@@ -6,7 +6,7 @@ This is not a standalone tutorial just quick example to understand how these com
 ## Clone Repo
 
 ```shell
-git clone
+git clone https://github.com/codebarber/terraform-sandbox.git
 ```
 
 ## Run Example
